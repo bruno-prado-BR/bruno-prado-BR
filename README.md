@@ -20,12 +20,13 @@ Sou um analista de dados apaixonado por tecnologia e inovação. Estou sempre bu
 
 Vamos nos conectar e trocar ideias!
 
-- LinkedIn: [Bruno Prado] (https://www.linkedin.com/in/bruno-prado-br/)
+- LinkedIn: [Bruno Prado](https://www.linkedin.com/in/bruno-prado-br/)
 - E-mail: brunoprado.contato@gmail.com
 
 ## Minhas Tecnologias
 
-<i class="devicon-azuresqldatabase-plain"></i>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
           
 ## Estatísticas do GitHub
 
