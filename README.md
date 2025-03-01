@@ -8,8 +8,8 @@ Sou um analista de dados apaixonado por tecnologia e inovação. Estou sempre bu
 
 - 👨🏻‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 🎓 MBA em Gerenciamento de Projetos.
-- 🔭 Atualmente estou procurando oportunidades de trabalho na área de dados.
 - 💼 Mais de 4 anos de experiência em Marketing!
+- 🔭 Atualmente estou procurando oportunidades de trabalho na área de dados.
 - 🌱 Estou aprendendo mais sobre Python, SQL e Power BI.
 - 💬 Gosto de conversar sobre Dados e Negócios.
 - ⚡ Curiosidade: Adoro séries, filmes e animes, e meu principal hobbie é jogar!
@@ -35,5 +35,3 @@ Vamos nos conectar e trocar ideias!
   <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight">
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-prado-BR&layout=compact">
 </div>
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
