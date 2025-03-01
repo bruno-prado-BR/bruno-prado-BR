@@ -32,6 +32,7 @@ Vamos nos conectar e trocar ideias!
 
 ## Estatísticas do GitHub
 <div>
-  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight">
-  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-prado-BR&layout=compact">
+  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=bruno-prado-BR">
+  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-prado-BR">
 </div>
+
