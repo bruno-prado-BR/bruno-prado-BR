@@ -35,3 +35,5 @@ Vamos nos conectar e trocar ideias!
   <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight">
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-prado-BR&layout=compact">
 </div>
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
