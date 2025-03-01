@@ -34,5 +34,5 @@ Vamos nos conectar e trocar ideias!
 
 ## Estatísticas do GitHub
 
-![Bruno Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-![Bruno Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Bruno Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight)
+![Bruno Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight)
