@@ -35,4 +35,4 @@ Vamos nos conectar e trocar ideias!
 ## Estatísticas do GitHub
 
 ![Bruno Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight)
-![Bruno Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-prado-BR&layout=compact)
