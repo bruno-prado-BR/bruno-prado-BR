@@ -9,6 +9,13 @@
 ##### Título 5
 ###### Título 6
 
+*Italico* ou _Italico_
+**Negrito** ou __Negrito__
+___Negrito e Italico___
+
+- Lista 1
+- Lista 2
+  - Sublista
 
 Texto.
 
