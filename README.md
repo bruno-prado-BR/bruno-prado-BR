@@ -28,13 +28,10 @@ Vamos nos conectar e trocar ideias!
 
 ## Minhas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px>
-----------------      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px">
 
 ## Estatísticas do GitHub
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight">
-<img width="41%" height="195px" src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=bruno-prado-BR&layout=compact">
-
-
+<div>
+  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=bruno-prado-BR&show_icons=true&theme=tokyonight">
+  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-prado-BR&layout=compact">
+</div>
